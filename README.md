@@ -1,4 +1,4 @@
-# Mraket App
+# Market App
 
 ## About
 An app that displays different items available in the market.
