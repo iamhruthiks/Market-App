@@ -15,7 +15,10 @@ An app that displays different items available in the market.
 ## Preview
 
 
-https://github.com/iamhruthiks/Market-App/assets/141637257/755081e8-1e45-4585-b2b2-cff0c64c9f80
+https://github.com/iamhruthiks/Market-App/assets/141637257/5db232c2-0e44-4970-a966-140b99c3b959
+
+
+
 
 
 
